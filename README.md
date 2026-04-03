@@ -1,7 +1,5 @@
 # Amazon Delivery Project Code README
 
-This README is only for the notebook code.
-
 ## File
 - `FinalProjectMSE433 (3).ipynb`
 
@@ -50,7 +48,7 @@ from google.colab import files
 ```
 
 ## Best environment to run it
-This notebook is written for **Google Colab** because it uses:
+This notebook is written for **Google Colab**:
 
 ```python
 from google.colab import files
