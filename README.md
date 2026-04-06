@@ -1,7 +1,7 @@
 # Amazon Delivery Project Code README
 
 ## File
-- `FinalProjectMSE433 (3).ipynb`
+- `FinalProjectMSE433.ipynb`
 
 ## What the code does
 The notebook builds a full analysis pipeline for the Amazon Delivery Dataset. It:
